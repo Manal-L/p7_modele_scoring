@@ -1,0 +1,5 @@
+#ignorer le répertoire virtuel
+venv/
+.vscode/
+
+#ignorer les:
