@@ -3,5 +3,6 @@ venv/
 .vscode/
 
 #ignorer les:
-P7_notebook_cleaning.ipynb
+p7_notebook_cleaning.ipynb
 api/nouveaux_clients.csv
+df_clean_imputed.csv
